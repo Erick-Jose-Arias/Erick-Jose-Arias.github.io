@@ -3,11 +3,11 @@ Organization of work flow and communication across the team are the primary foun
 
 
 ### Education
-- Applied Mathematics, Bachelors      | San Francisco State University (_May 2023_)
-- Advanced Data Analytics Certificate | Google Careers (_September 2024_)
+- Applied Mathematics, Bachelors      | San Francisco State University   (_May 2023_)
+- Advanced Data Analytics Certificate | Google Career Certificates   (_September 2024_)
 
 ### Work Experience 
-Computer Systems Engineer, Lawrence Berkeley Labs (_Oct 2023 - Jun 2024_)
+Computer Systems Engineer @ Lawrence Berkeley National Laboratory (_Oct 2023 - Jun 2024_)
 - Statistical analysis, data-driven analysis, and multiple predictive model building (RFR, MLP, & WGANs) for a large 23-feature dataset regarding toroidal-plasma conditons.
 - Explorative analysis uncovered relationships to better accompany known physics across fast generative plasma condtiton and wave software.
 
