@@ -1,10 +1,10 @@
 # Data Analyst
-Organization of work flow and communication across the team are the primary foundations which you may find success in a project. However, across project proposals, executive summaries, and stakeholder meetings, it's all wrapped in the love for the craft and it's creations from unknown phenomena. I believe you'll find exemplary work of such a belief below.
+Organization of work flow and communication across the team are the primary foundations which you may find success in a project. However, across project proposals, executive summaries, and stakeholder meetings, it's all wrapped in the love for the craft and it's creations from unexplored phenomena. I believe you'll find exemplary work of such a belief below.
 
 
 ### Education
-- Applied Mathematics, Bachelors | San Francisco State University (_May 2023_)
-- Advanced Data Analytics, Google Certificate (_September 2024_)
+- Applied Mathematics, Bachelors      | San Francisco State University (_May 2023_)
+- Advanced Data Analytics Certificate | Google Careers (_September 2024_)
 
 ### Work Experience 
 Computer Systems Engineer, Lawrence Berkeley Labs (_Oct 2023 - Jun 2024_)
