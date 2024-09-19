@@ -3,7 +3,7 @@ Organization of work flow and communication across the team are the primary foun
 
 
 ### Education
-- Applied Mathematics, Bachelors      | San Francisco State University   (_May 2023_)
+- Applied Mathematics, Bachelors      | San Francisco State University   (____May 2023_)
 - Advanced Data Analytics Certificate | Google Career Certificates   (_September 2024_)
 
 ### Work Experience 
